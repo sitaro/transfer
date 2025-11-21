@@ -1,0 +1,31 @@
+C:\Users\Administrator\Scripts\export_root_cert.ps1 : Fehler: Es wurden mehrere passende Zertifikate gefunden. Bitte
+Namen () spezifischer wÃ¤hlen.
+In Zeile:1 Zeichen:1
++ .\export_root_cert.ps1
++ ~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException
+    + FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,export_root_cert.ps1
+
+
+Subject
+-------
+CN=Microsoft Root Certificate Authority, DC=microsoft, DC=com
+CN=Thawte Timestamping CA, OU=Thawte Certification, O=Thawte, L=Durbanville, S=Western Cape, C=ZA
+CN=Microsoft Root Authority, OU=Microsoft Corporation, OU=Copyright (c) 1997 Microsoft Corp.
+CN=Symantec Enterprise Mobile Root for Microsoft, O=Symantec Corporation, C=US
+CN=Microsoft Root Certificate Authority 2011, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+CN=Microsoft Authenticode(tm) Root Authority, O=MSFT, C=US
+CN=Microsoft Root Certificate Authority 2010, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+CN=Microsoft ECC TS Root Certificate Authority 2018, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+OU=Copyright (c) 1997 Microsoft Corp., OU=Microsoft Time Stamping Service Root, OU=Microsoft Corporation, O=Microsof...
+OU="NO LIABILITY ACCEPTED, (c)97 VeriSign, Inc.", OU=VeriSign Time Stamping Service Root, OU="VeriSign, Inc.", O=Ver...
+CN=Microsoft ECC Product Root Certificate Authority 2018, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+CN=Microsoft Time Stamp Root Certificate Authority 2014, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US
+CN=ISRG Root X1, O=Internet Security Research Group, C=US
+CN=GlobalSign Root CA, OU=Root CA, O=GlobalSign nv-sa, C=BE
+CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+CN=DigiCert Global Root G3, OU=www.digicert.com, O=DigiCert Inc, C=US
+OU=Class 3 Public Primary Certification Authority, O="VeriSign, Inc.", C=US
+CN=Microsoft RSA Root Certificate Authority 2017, O=Microsoft Corporation, C=US
+CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey City, S=New Jersey, C=US
