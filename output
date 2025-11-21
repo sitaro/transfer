@@ -29,3 +29,8 @@ CN=DigiCert Global Root G3, OU=www.digicert.com, O=DigiCert Inc, C=US
 OU=Class 3 Public Primary Certification Authority, O="VeriSign, Inc.", C=US
 CN=Microsoft RSA Root Certificate Authority 2017, O=Microsoft Corporation, C=US
 CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey City, S=New Jersey, C=US
+
+Internes Root-Zertifikat gefunden und exportiert!
+   Gefundener Speicherort: Microsoft.PowerShell.Security\Certificate::LocalMachine\Remote Desktop
+   Zertifikat Betreff: CN=PDC.mathops.local
+   Exportiert nach: C:\Temp\AD_Root_CA.cer
